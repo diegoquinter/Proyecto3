@@ -1,5 +1,6 @@
 Proyecto del módulo 3:
 
+GRANULOMETRIA:
 El tamaño de las partículas en mm son:
 19.05
 12.7
@@ -23,3 +24,7 @@ Y el porcentaje que pasa cada malla es:
 35.52154359
 23.16843174
 13.2380676
+
+
+Las mallas que usamos son ( 4,10,20,40,60,100,200).
+
